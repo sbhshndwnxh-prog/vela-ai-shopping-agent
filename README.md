@@ -58,7 +58,7 @@ The result panel shows **Live AI** when the call succeeds. If the provider is un
 
 ## Architecture
 
-- Next.js 15 + React 19 + TypeScript
+- Next.js 16 + React 19 + TypeScript
 - Single-session image handling; no application file storage or database. In Live AI mode, the image is sent to the API provider you configure and is subject to that provider's data policy.
 - One server route as the provider adapter: `src/app/api/agent/route.ts`
 - Local mock product catalog: `src/lib/catalog.ts`
