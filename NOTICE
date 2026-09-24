@@ -1,0 +1,13 @@
+Vela — AI Personal Shopping Agent
+
+This project was independently redesigned and substantially rewritten from an
+open-source starting point:
+
+  Open AI Stylist / StyleList
+  https://github.com/parsakhaz/open-ai-stylist
+  Inspected commit: 198fedb7d859bead825a004566f417b07c63cc6a
+
+Selected mock product image assets originate from that repository. The upstream
+README states “MIT License,” but the inspected default branch did not include
+the referenced LICENSE file. This notice preserves attribution and records that
+repository state accurately.
